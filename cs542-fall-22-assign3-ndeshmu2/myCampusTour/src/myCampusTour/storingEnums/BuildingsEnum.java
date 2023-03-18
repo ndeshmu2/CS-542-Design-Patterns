@@ -1,0 +1,5 @@
+package myCampusTour.storingEnums;
+
+public enum BuildingsEnum{
+    SCHOOL_OF_MANAGEMENT, WATSON_COLLEGE_OF_ENGINEERING, HARPUR_COLLEGE_OF_ARTS, DECKER_COLLEGE_OF_NURSING;
+}
