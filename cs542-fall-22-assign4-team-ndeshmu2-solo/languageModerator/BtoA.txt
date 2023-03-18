@@ -1,0 +1,5 @@
+catalogue:catalog
+centre:center
+brackets:parentheses
+colour:color
+cooker:stove
